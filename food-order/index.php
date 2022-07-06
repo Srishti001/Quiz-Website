@@ -43,7 +43,7 @@
                         $id = $row['id'];
                         $title = $row['title'];
                         $image_name = $row['image_name'];
-                       // $link=$row['link'];
+                        $link=$row['link'];
                         ?>
                         
                         
